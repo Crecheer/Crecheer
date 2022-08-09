@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Crecheer
+- 👀 I’m interested in Api's
+- 🌱 I’m currently learning Node.js
+- 💞️ I’m looking to collaborate on nothing right now 🙁
+- 📫 You can reach me via email (fam.crecher@gmail.com)
