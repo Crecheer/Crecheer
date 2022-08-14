@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Crecheer
-- 👀 I’m interested in Api's
-- 🌱 I’m currently learning Node.js
-- 💞️ I’m looking to collaborate when i am better at developing
-- 📫 You can reach me via email (fam.crecher@gmail.com)
+<h1>Hi</h1>
+<p>I am Crecheer</p>
+<p>I programm in Javascript and i am learning URCL(Universal Redstone Computer Language), a assembly like language made for Minecraft CPU's</p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Crecheer)](https://github.com/anuraghazra/github-readme-stats)
+<h2>My stats</h2>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Crecheer&show_icons=true&theme=dark)
